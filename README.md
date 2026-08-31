@@ -182,9 +182,7 @@ Fashion-MNIST-Deep-Learning/
 │
 ├── README.md
 ├── requirements.txt
-│
-├── notebooks/
-│   └── FASHION_MNIST_DL_DEMO_31_08.ipynb
+│── FASHION_MNIST_DL_DEMO_31_08.ipynb
 │
 ├── results/
 │   ├── confusion_matrix.png
