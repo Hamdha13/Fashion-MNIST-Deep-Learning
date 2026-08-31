@@ -184,17 +184,12 @@ Fashion-MNIST-Deep-Learning/
 ├── requirements.txt
 │
 ├── notebooks/
-│   └── FASHION_MNIST_DL_DEMO_31_08_26.ipynb
+│   └── FASHION_MNIST_DL_DEMO_31_08.ipynb
 │
 ├── results/
 │   ├── confusion_matrix.png
-│   ├── roc_curve.png
+│   ├── ROC_curve.png
 │   ├── training_history.png
-│   └── model_comparison.png
-│
-└── images/
-    ├── sample_predictions.png
-    └── feature_maps.png
 ```
 
 ---
