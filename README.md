@@ -218,7 +218,7 @@ Fashion-MNIST-Deep-Learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Fashion-MNIST-Deep-Learning.git
+git clone https://github.com/Hamdha13/Fashion-MNIST-Deep-Learning.git
 ```
 
 Navigate into the project:
